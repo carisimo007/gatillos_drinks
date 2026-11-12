@@ -1,0 +1,33 @@
+# ============================================================
+# GATILLOS DRINKS - Sistema de Gestión Comercial
+# ============================================================
+# Dependencias del proyecto
+#
+# Para instalar todo automáticamente:
+#     pip install -r requirements.txt
+#
+# Para ejecutar el programa:
+#     python main.py
+# ============================================================
+
+# --- Dependencia externa principal ---
+# Generación de reportes PDF del Libro de Caja
+reportlab>=4.0.0
+
+
+# ============================================================
+# NOTAS IMPORTANTES
+# ============================================================
+#
+# ✅ Tkinter
+#    Viene incluido con Python en Windows y macOS.
+#    En Linux, instalarlo con:
+#        sudo apt install python3-tk
+#
+# ✅ SQLite3
+#    Viene incluido con Python (librería estándar).
+#    No requiere instalación.
+#
+# ✅ Python mínimo requerido: 3.8 o superior
+#    Verificar con: python --version
+# ============================================================
